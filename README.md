@@ -27,3 +27,17 @@ This project processes a file containing city information and appends location d
  ```
 GOOGLE_API_KEY=your-api-key
 ```
+## Run the project
+- Go to VSCode and open folder of your choice  and run the following command :
+  ```sh
+   cd basic
+  ```
+  Or
+  ```sh
+  cd parallel
+  ```
+- Then run the project
+
+  ```sh
+  node .
+  ```
