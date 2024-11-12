@@ -1,0 +1,9 @@
+Austin,Texas,US
+New York,New York,US
+Montreal,Quebec,Canada
+Los Angeles,California,US
+Chicago,Illinois,US
+Toronto,Ontario,Canada
+Vancouver,British Columbia,Canada
+London,England,UK
+Paris,Ile-de-France,France
