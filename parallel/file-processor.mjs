@@ -5,7 +5,6 @@ dotenv.config();
 
 const googleApiKey = process.env.GOOGLE_API_KEY;
 
-console.log(googleApiKey); 
 const googleApiUrl = "https://maps.googleapis.com/maps/api/geocode/json?address=";
 
 export class FileProcessor {
