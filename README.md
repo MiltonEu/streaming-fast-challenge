@@ -6,12 +6,12 @@ This project processes a file containing city information and appends location d
 
 - Node.js (v14 or higher)
 - npm (v6 or higher)
-
+  
 ## Setup
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/streaming-fast-challenge.git
+   git clone https://github.com/MiltonEu/streaming-fast-challenge.git
    cd streaming-fast-challenge
 
 2. **Setting up a project**:
